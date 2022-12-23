@@ -1,0 +1,25 @@
+#+title: "site-plan"
+#+author: "Future_Axolotl"
+
+* Top
+** My Profile (with link to channel)
+** Name
+
+* Slightly down
+** What I do
+** Video categories (with links to playlists?)
+
+* Slightly down
+** Links to stuff
+**** GitHub
+**** Discord
+**** YouTube Channel (maybe)
+
+* Slightly down or bottom
+** Things I may or may not put in
+**** Blogs (probably not, but maybe)
+**** Larger, more significant code projects completed or in development
+
+* Bottom (maybe)
+** Either non-existent copyright or the statement that I license all my projects under the GPL-V3 license.
+** Some sort of goofy easter egg
