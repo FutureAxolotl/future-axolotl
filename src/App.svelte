@@ -20,7 +20,7 @@
   } */
   .space {
     width: auto;
-    height: 16px;
+    height: 500px;
     display: inline-block;
   }
 </style>
