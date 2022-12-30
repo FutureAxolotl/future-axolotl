@@ -13,7 +13,7 @@
     } else if (rickRollCount > 1) {
       alert("I'M SURPRISED THAT YOU FELL FOR THIS AGAIN (or maybe not)!")
       music.play()
-      rickRollCount += 1
+      setTimeout(countAdd, 213000)
     } else {
       alert('YOU FELL FOR MY TRAP, HAHAHAHAHA!')
       music.play()
